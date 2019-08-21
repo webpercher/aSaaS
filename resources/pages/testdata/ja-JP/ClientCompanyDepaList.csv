@@ -1,0 +1,10 @@
+pageName|name|testData|xpath
+clientCompanyDeptList|departmentCode|TS5909_2<name>10003<data>TS5909_1<name>10002<data>TS1971<name>10001<data>TS1980<name>10001|//html/body/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div/div[3]/div/div/table/tbody/tr/td[2]/div/input
+clientCompanyDeptList|departmentName|TS5909_2<name>務部<data>TS5909_1<name>総部<data>TS1972<name>総務部|//html/body/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div/div[3]/div/div/table/tbody/tr[2]/td[2]/div/input
+clientCompanyDeptList|departmentKana|TS5909_2<name>名称<data>TS5909_1<name>仮称<data>TS1975<name>仮名称|//html/body/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div/div[3]/div/div/table/tbody/tr[3]/td[2]/div/input
+clientCompanyDeptList|departmentShortName|TS5909_2<name>名称<data>TS5909_1<name>略称<data>TS1977<name>略名称|//html/body/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div/div[3]/div/div/table/tbody/tr[4]/td[2]/div/input
+clientCompanyDeptList|subdivisionsOccurJournal||//html/body/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div/div[3]/div/div/table/tbody/tr[6]/td[2]/div/span/input
+clientCompanyDeptList|subdivisions||//html/body/div/div/div/div[2]/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div/div[3]/div/div/table/tbody/tr[9]/td[2]/span/span/input
+clientCompanyDeptList|OK||//html/body/div/div/div/div[2]/div[3]/div/div/div/div/div/table[2]/tbody/tr/td[2]/table/tbody/tr/td/button
+
+bottomMenu|close||//html/body/div/div/div/div[2]/div[3]/div/div/div/div/div/table[2]/tbody/tr/td[3]/table/tbody/tr/td[4]/button

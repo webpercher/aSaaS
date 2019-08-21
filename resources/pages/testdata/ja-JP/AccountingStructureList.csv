@@ -1,0 +1,27 @@
+pageName|name|testData|xpath
+
+accountStructureMaintenance|accountStructureMaintenance|title<name>科目体系登録|//html/body/div/div/div/div[2]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div/div/table/tbody[2]/tr/th[2]/div
+accountStructureMaintenance|accountStructureNameList|indiStandard<name>A-SaaS標準 個人<data>compStandard<name>A-SaaS標準 法人全科目|//html/body/div/div/div/div[2]/div[2]/div/div/div/div/div/div[2]/div[2]/div/div/div/div/div[3]/table/tbody[2]/tr
+
+menuBar|menuBar|title<name>menuBar|//html/body/div/div/div/div/div/div/div
+menuBar|menu_File|title<name>ファイル|//html/body/div/div/div/div/div/div/div/table/tbody/tr/td/table/tbody/tr/td[2]/div/button
+menuBar|menu_File_CreateStructure|title<name>新規科目体系|//html/body/div[3]/ul/li[4]/div/div/div/a
+menuBar|menu_File_Close|title<name>閉じる|//html/body/div[3]/ul/li[9]/div/div/div/a
+menuBar|menu_File_Logout|title<name>ログアウト|//html/body/div[3]/ul/li[10]/div/div/div/a
+menuBar|menu_Edit|title<name>編集|//html/body/div/div/div/div/div/div/div/table/tbody/tr/td[2]/table/tbody/tr/td[2]/div/button
+menuBar|menu_Edit_Undo|title<name>取り消す|//html/body/div[3]/ul/li/div/div/div/a
+menuBar|menu_Edit_Edit|title<name>編集する|//html/body/div[3]/ul/li[2]/div/div/div/a
+menuBar|menu_Edit_Del|title<name>科目体系の削除|//html/body/div[3]/ul/li[7]/div/div/div/a
+menuBar|menu_Edit_SwitchSelectionToEditMode|title<name>編集モードにする|//html/body/div[3]/ul/li[14]/div/div/div/a
+menuBar|menu_View|title<name>表示|//html/body/div/div/div/div/div/div/div/table/tbody/tr/td[3]/table/tbody/tr/td[2]/div/button
+
+popUp|popUp|title<name>popUp|//html/body/div[4]/div[3]
+popUp|popup_Structure_System|title<name>システム|//html/body/div[4]/div[3]/div/div/div/div[3]/div/div[3]/ul/li[3]/div/div/div/span
+popUp|popup_Structure_System_List|indiStandard<name>A-SaaS標準 個人<data>compStandard<name>A-SaaS標準 法人全科目|//html/body/div[4]/div[3]/div/div/div/div[4]/div/div[3]/table/tbody[2]/tr
+popUp|popup_Select||//html/body/div[4]/div[3]/div/div/div/div[6]/button
+popUp|popup_Cancel||//html/body/div[4]/div[3]/div/div/div/div[6]/button[2]
+
+bottomMenu|bottomMenu|title<name>bottomMenu|//html/body/div/div/div/div[2]/div[3]/div/div/div
+bottomMenu|close||//html/body/div/div/div/div[2]/div[3]/div/div/div/div/div/table[2]/tbody/tr/td[3]/table/tbody/tr/td[4]/button
+bottomMenu|del||//html/body/div/div/div/div[2]/div[3]/div/div/div/div/div/table[2]/tbody/tr/td[4]/table/tbody/tr/td[3]/button
+bottomMenu|esc||//html/body/div/div/div/div[2]/div[3]/div/div/div/div/div/table[2]/tbody/tr/td[4]/table/tbody/tr/td[4]/button

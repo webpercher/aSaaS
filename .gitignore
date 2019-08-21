@@ -1,0 +1,9 @@
+*.log
+*.lst
+/target/
+/log/
+/Screenshot/
+/test-output/
+/.settings/
+/.metadata/
+/drivers/
